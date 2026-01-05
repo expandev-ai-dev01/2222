@@ -6,4 +6,7 @@
  * @module instances
  */
 
-
+/**
+ * Sorveteria instances
+ */
+export { sorveteriaStore } from './sorveteria';
